@@ -24,5 +24,25 @@ Here are the results and simulation steps
 ![r17_10_TECH_FILE](https://github.com/user-attachments/assets/8b639498-b976-4ad4-a29e-f43579746f84)
 ![r17_MACHIE](https://github.com/user-attachments/assets/4c864024-1fec-4d7f-aca7-4d7bb55f4cf6)
 
+# Day2 and Day 3 CMOS Invertor 
+![r18](https://github.com/user-attachments/assets/6bf6377a-687b-4e64-9ba5-3e4726f9ff48)
+![r18_1](https://github.com/user-attachments/assets/58c59733-e393-47ce-97c4-11c9cbf2b79b)
+![r18_2](https://github.com/user-attachments/assets/cd9bbf54-7eea-40a9-a7bf-c60094bb3159)
+![r18_3](https://github.com/user-attachments/assets/4968a013-8db2-4e44-a991-ea6f6d0aab4a)
+![r18_4](https://github.com/user-attachments/assets/383fcfbd-4d26-494b-97a5-6525b45ae742)
+![r18_5](https://github.com/user-attachments/assets/89769604-42d4-48b6-9eed-29e78c4429cd)
+![r18_6](https://github.com/user-attachments/assets/9610e4ca-e9f6-4a5f-ad39-89fefc5b5ebe)
+![r18_7](https://github.com/user-attachments/assets/95faab1d-66e3-40d9-8c10-95d9fc8c0884)
+![r18_8](https://github.com/user-attachments/assets/05fac0ec-b8ef-4ea4-87d7-2252e9bc5ac8)
+
+
+
+
+
+
+
+
+
+
 
 
